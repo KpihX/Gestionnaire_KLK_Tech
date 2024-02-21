@@ -6,11 +6,15 @@ Il s'agit en fait d'un projet de formation en python dont les objectifis fixés 
 
 ## Caractéristiques💡
 
-* Ce projet comporte  une version cmd, qui stocke les données sur les clients et les produits dans des fichiers octets, quasiment illisible.
+## * Ce projet comporte  une version cmd, qui stocke les données sur les clients et les produits dans des fichiers octets, quasiment illisible.
+
 * C'est dans cette optique que vient une version cmd2 pour utiliser le format de fichier .json pour une meilleure lisibilité des fichiers de données en dehors des programmes.
 * La version gui vient apporter une interface graphique plus agréable que le terminal
 * La version gui2 (en cours de developpement) fournira une interface épurée, plus agréable et avec laquelle les interactions sont plus faciles.
-* 
+
+## Exécution ✅
+
+Pour éxecuter le code, bien vouloir d'abord se positionner dans le dossier de la version concernée pour ne pas avoir des surprises quant à l'emplacement des fichiers de données.
 
 ## Author ✍️
 
