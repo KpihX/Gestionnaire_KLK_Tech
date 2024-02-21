@@ -1,0 +1,9 @@
+* La Boutique est une liste avec articles
+* Chaque article est une liste qui a un nom, un code barre, un prix et le nbre en stock
+* La boutique doit avoir un theme (Nom correspndant a ce qui est vendu dans la boutique)
+* Ecrire python qui presente la boutique
+* Pour chaque utilisateur prendre son nom, lui donner la possibilité d'effectuer sa commande (Bienvenue M. ...)
+(connaitre s'il a deja ete dans la boutique et lui proposer (grace a ses factures) d'eventuelles suggestions de marchandises)
+* Presenter un bilan de ses achats et lui demander de valider, produire la facture (fichier txt bien ordonné) (Nommer les factures avec
+le nom du client)
+* Apres 2 passages, proposer une reduction de 2%  (a partir du 3e passage) sur un article ayant ete achete au moins a 2 passages
